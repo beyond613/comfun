@@ -1,6 +1,7 @@
 {
   "name": "beyond613/comfun",
   "type": "library",
+  "license": "MIT",
   "description": "common function",
   "homepage": "https://github.com/beyond613/comfun.git",
   "authors": [
