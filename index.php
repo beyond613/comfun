@@ -1,5 +1,5 @@
 <?php
-require './function.php';
+require './functions.php';
 $a = [
 	'a' => 1,
 	'b' => [
