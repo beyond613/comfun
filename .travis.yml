@@ -6,3 +6,6 @@ php:
 before_script:
   - composer self-update
   - composer update 2>/dev/null
+
+script:
+  - phpunit tests/hahatest.php
