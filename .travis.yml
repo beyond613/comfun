@@ -8,4 +8,4 @@ before_script:
   - composer update 2>/dev/null
 
 script:
-  - phpunit tests/hahatest.php
+  - phpunit tests
