@@ -5,6 +5,7 @@ class Haha{
 	}
 
 	public function getHaha(){
+		$a = 'test';
 		return 'haha';
 	}
 
